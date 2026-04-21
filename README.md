@@ -40,14 +40,6 @@ I am a passionate **Full Stack Developer** dedicated to building high-performanc
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevangGarg&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
