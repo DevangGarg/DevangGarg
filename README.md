@@ -1,6 +1,10 @@
 # <p align="center">Hi there! 👋 I'm Devang Garg</p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevangGarg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <img src="banner.png" alt="Devang Garg Banner" width="100%">
 </p>
 
@@ -14,8 +18,8 @@
 
 I am a passionate **Full Stack Developer** dedicated to building high-performance web applications and automated systems. I love exploring new technologies and contributing to open-source projects.
 
-- 🔭 I’m currently working on **Advanced Agentic AI**
-- 🌱 I’m currently learning **Deep Learning & Cloud Architectures**
+- 🔭 I'm currently working on **Advanced Agentic AI**
+- 🌱 I'm currently learning **Deep Learning & Cloud Architectures**
 - 💬 Ask me about **Python, React, and System Design**
 - ⚡ Fun fact: **I believe automation is the key to creativity.**
 
@@ -36,6 +40,14 @@ I am a passionate **Full Stack Developer** dedicated to building high-performanc
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevangGarg&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -46,6 +58,36 @@ I am a passionate **Full Stack Developer** dedicated to building high-performanc
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevangGarg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevangGarg&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevangGarg/DevangGarg/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevangGarg/DevangGarg/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/DevangGarg/DevangGarg/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### ⚡ Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
@@ -62,6 +104,14 @@ I am a passionate **Full Stack Developer** dedicated to building high-performanc
 
 ---
 
+### 💡 Random Dev Quote
+
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
