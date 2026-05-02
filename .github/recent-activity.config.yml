@@ -1,0 +1,6 @@
+# Configuration for Readme-Workflows/recent-activity v2.x
+# Docs: https://github.com/Readme-Workflows/recent-activity/wiki/Configuration
+
+settings:
+  commit_msg: "chore: update recent activity"
+  max_lines: 5
